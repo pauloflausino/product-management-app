@@ -65,4 +65,4 @@ npm run test
 - Documentação técnica mais completa
 
 ---
-Feito com 💙 por [Seu Nome]
+Feito com 💙 por Paulo Flausino
